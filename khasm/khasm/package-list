@@ -1,0 +1,9 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+
+net.khasm.init
+net.khasm.test
+net.khasm.transform
+net.khasm.transform.target
+net.khasm.util
+
